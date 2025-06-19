@@ -2,7 +2,7 @@
 
 This is my personal portfolio website built using HTML, CSS, JavaScript, and Bootstrap. It showcases my skills, projects, and contact information.
 
-👉 Live site: khushitiwari26.github.io/Portfolio
+👉 Live site: https://khushitiwari26.github.io/Portfolio/
 
 💡 Features
  - Responsive design
